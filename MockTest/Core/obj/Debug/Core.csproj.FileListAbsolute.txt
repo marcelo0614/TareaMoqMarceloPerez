@@ -1,0 +1,10 @@
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\bin\Debug\Core.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\bin\Debug\Core.pdb
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\obj\Debug\Core.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\MockTest\Core\obj\Debug\Core.pdb
+C:\Users\hp\Desktop\Nueva carpeta (6)\MockTest\Core\bin\Debug\Core.dll
+C:\Users\hp\Desktop\Nueva carpeta (6)\MockTest\Core\bin\Debug\Core.pdb
+C:\Users\hp\Desktop\Nueva carpeta (6)\MockTest\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Nueva carpeta (6)\MockTest\Core\obj\Debug\Core.dll
+C:\Users\hp\Desktop\Nueva carpeta (6)\MockTest\Core\obj\Debug\Core.pdb
